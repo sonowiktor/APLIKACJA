@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="resetButton" type="id" />
+    <item name="resetButton" type="id" />
+    <item name="confirmButton" type="id" />
+    <item name="pizza6" type="id" />
+    <item name="pizza5" type="id" />
+    <item name="pizza4" type="id" />
+    <item name="pizza3" type="id" />
+    <item name="pizza2" type="id" />
+    <item name="pizza1" type="id" />
+    <item name="editTextNumber" type="id" />
+    <item name="editTextNumber2" type="id" />
+    <item name="editTextNumber3" type="id" />
+    <item name="editTextNumber4" type="id" />
+    <item name="editTextNumber5" type="id" />
+    <item name="editTextNumber6" type="id" />
+</resources>
